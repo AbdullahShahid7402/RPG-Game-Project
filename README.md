@@ -28,9 +28,8 @@ To use the project, follow these guidelines:
 
 ## Contributors
 
-- [John Doe](https://github.com/johndoe)
-- [Jane Smith](https://github.com/janesmith)
+- [Abdullah Shahid Butt](https://github.com/AbdullahShahid7402)
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is not licensed.
