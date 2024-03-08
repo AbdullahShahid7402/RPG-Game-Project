@@ -6,25 +6,28 @@ Welcome to Project RPG SFML! This project aims to develop a role-playing game (R
 
 ## Features
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
+- [ ] Open World
+- [ ] Accessible Buildings
+- [ ] Interactibility with NPC and objects
+- [ ] NPCs and Rich world
+- [ ] GamePlay Mechanics like attack, run, eat, equip equipments
 
 ## Installation
 
 To install and run the project, follow these steps:
 
-1. Step 1
-2. Step 2
-3. Step 3
+1. install g++ and sfml library
+2. open the directory in terminal
+3. and and enter "command to compile"
+4. enter "command to run" to run the game any time now
 
 ## Usage
 
 To use the project, follow these guidelines:
 
-1. Guideline 1
-2. Guideline 2
-3. Guideline 3
+1. Write clean code (as much as possible)
+2. Use comments
+3. implement features into separate functions as much as possible 
 
 ## Contributors
 
